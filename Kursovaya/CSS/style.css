@@ -195,18 +195,19 @@
      padding: 140px 113px;
  }
 
- .arrow-white:hover,
  .button:hover,
  .label2:hover,
  .menu-button:hover,
  a.copyright:hover,
  .email-address:hover,
+ .button-close:hover,
  .btn-log:hover {
      color: aqua;
  }
 
  .label:hover,
- .btn-start:hover {
+ .btn-start:hover,
+ .blue-icons:hover {
      background-color: aqua;
  }
 
@@ -425,7 +426,7 @@
      font-size: 14.9px;
      font-weight: 600;
      letter-spacing: 4.66px;
-     background-color: rgb(35, 42, 65);
+     background-color: rgb(29, 40, 69);
      ;
  }
 
@@ -478,7 +479,7 @@
      left: 510px;
      right: 600px;
      top: 180px;
-     font-size: 14.9px;
+     font-size: 15.9px;
      font-weight: 600;
      letter-spacing: 3.73px;
      text-transform: uppercase;
